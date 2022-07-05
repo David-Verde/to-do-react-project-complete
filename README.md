@@ -1,8 +1,8 @@
-## React Tutorial from Scratch– A Step-by-Step Guide (2021 Update)
+## React Tutorial 
 
-This repo holds all the code for a React todos application. You can follow the step by step [guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/).
+Project Created using React
 
-## [Click to See the Todos App](https://ibaslogic.github.io/react-todo-project/)
+
 
 The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
 
