@@ -11,7 +11,7 @@ The code is available in the `src` folder. In there, you’ll see two folders na
 You can download or clone this project by running this command from your terminal:
 
 ```
-git clone https://github.com/Ibaslogic/react-todo-app
+git clone https://github.com/David-Verde/to-do-react-project-complete
 ```
 
 This will create a directory in the name of the project folder.
