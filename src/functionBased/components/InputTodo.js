@@ -1,6 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react';
 // eslint-disable-next-line no-unused-vars
+// eslint-disable-next-line import/extensions
 import { FaPlusCircle } from 'react-icons/fa';
 
 const InputTodo = (props) => {

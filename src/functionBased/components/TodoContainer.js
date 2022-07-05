@@ -10,6 +10,7 @@ import NotMatch from '../pages/NotMatch';
 import Navbar from './Navbar';
 
 const TodoContainer = () => {
+  // eslint-disable-next-line no-use-before-define
   const [todos, setTodos] = useState(getInitialTodos());
 
   // useEffect(() => {
