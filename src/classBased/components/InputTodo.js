@@ -1,3 +1,4 @@
+// eslint-disable-line no-unused-vars
 import React, { Component } from 'react';
 
 class InputTodo extends Component {

@@ -1,7 +1,9 @@
+// eslint-disable-line no-unused-vars
 import React from 'react';
-import TodoItem from './TodoItem';
+import TodoItem from './TodoItem.js';
 
 class TodosList extends React.Component {
+  // eslint-disable-line
   render() {
     return (
       <ul>

@@ -28,6 +28,7 @@
     "extends": [
       "react-app",
       "react-app/jest"
+      
     ]
   },
   "browserslist": {
@@ -65,4 +66,5 @@
   "bugs": {
     "url": "https://github.com/David-Verde/to-do-react-project-complete/issues"
   }
+
 }
